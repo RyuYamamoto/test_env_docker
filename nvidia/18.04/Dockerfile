@@ -1,4 +1,4 @@
-FROM map4/cuda-ros:10.0-melodic
+FROM osrf/ros:melodic-desktop-bionic
 
 SHELL ["/bin/bash", "-c"]
 
